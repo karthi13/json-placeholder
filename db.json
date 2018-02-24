@@ -66,21 +66,6 @@
 	 { "id" : 23, "name": "krishna", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
 	 { "id" : 24, "name": "goutham", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
 	 { "id" : 25, "name": "pavi", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 26, "name": "sumanth", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 27, "name": "nagaraj", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 28, "name": "myskkin", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 29, "name": "illayraja", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 30, "name": "mithran", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 31, "name": "varun", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 32, "name": "abi", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 33, "name": "lokesh", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 34, "name": "pramod", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 35, "name": "dharsan", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 36, "name": "ragothaman", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 37, "name": "hari", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 38, "name": "saravanan", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 39, "name": "saljuk", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 40, "name": "pogba", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 41, "name": "iyanu", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" }
+	 { "id" : 26, "name": "sumanth", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" }	
  ]
 }
