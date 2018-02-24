@@ -1,11 +1,51 @@
 {
- "students" : [
- 
-	 { "id" : 1, "name": "karthik", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "21", "gender" : "male" },
-	 { "id" : 2, "name": "soundari", "dept" : "eee", "year" : "3", "rollNo" : "11609101713", "age" : "20", "gender" : "female" },
-	 { "id" : 3, "name": "deena", "dept" : "civil", "year" : "2", "rollNo" : "11609105701", "age" : "19", "gender" : "male" },
-	 { "id" : 4, "name": "kumar", "dept" : "csc", "year" : "4", "rollNo" : "11609104701", "age" : "20", "gender" : "male" },
-	 { "id" : 5, "name": "arun", "dept" : "it", "year" : "4", "rollNo" : "11609106301", "age" : "20", "gender" : "male" },
+ "students" : [ 
+	 { 
+
+	 	"id"   : 1,
+	 	"name" : "karthik",
+	 	"dept" : "ece",
+	 	"year" : 4,
+	 	"rollNo" : "11609106701",
+	 	"age" : 21,
+	 	"gender" : "male" 
+	 },
+	 { 
+	 	"id" : 2,
+	 	"name": "soundari",
+	 	"dept" : "eee",
+	 	"year" : 3,
+	 	"rollNo" : "11609101713",
+	 	"age" : 20,
+	 	"gender" : "female" 
+	 },
+	 { 
+	    "id" : 3,
+	    "name": "deena",
+	    "dept" : "civil",
+	    "year" : 2,
+	    "rollNo" : "11609105701",
+	    "age" : 19,
+	    "gender" : "male" 
+	}, 
+	{ 
+		"id" : 4,
+		"name": "kumar",
+	    "dept" : "csc",
+	    "year" : 4,
+	    "rollNo" : "11609104701",
+	    "age" : 20,
+	    "gender" : "male" 
+	},
+	{ 
+		"id" : 5,
+		"name": "arun",
+		"dept" : "it",
+		"year" : 4,
+		"rollNo" : "11609106301",
+		"age" : 20,
+		"gender" : "male" 
+	},
 	 { "id" : 6, "name": "bala", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
 	 { "id" : 7, "name": "suresh", "dept" : "eee", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
 	 { "id" : 8, "name": "ayyappa", "dept" : "civil", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
@@ -41,6 +81,6 @@
 	 { "id" : 38, "name": "saravanan", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
 	 { "id" : 39, "name": "saljuk", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
 	 { "id" : 40, "name": "pogba", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 41, "name": "iyanu", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
+	 { "id" : 41, "name": "iyanu", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" }
  ]
 }
