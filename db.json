@@ -13,59 +13,222 @@
 	 { 
 	 	"id" : 2,
 	 	"name": "soundari",
-	 	"dept" : "eee",
+	 	"dept" : "ece",
 	 	"year" : 3,
-	 	"rollNo" : "11609101713",
+	 	"rollNo" : "11609101702",
 	 	"age" : 20,
 	 	"gender" : "female" 
 	 },
 	 { 
 	    "id" : 3,
 	    "name": "deena",
-	    "dept" : "civil",
+	    "dept" : "ece",
 	    "year" : 2,
-	    "rollNo" : "11609105701",
+	    "rollNo" : "11609105703",
 	    "age" : 19,
 	    "gender" : "male" 
 	}, 
 	{ 
 		"id" : 4,
 		"name": "kumar",
-	    "dept" : "csc",
+	    "dept" : "ece",
 	    "year" : 4,
-	    "rollNo" : "11609104701",
+	    "rollNo" : "11609104704",
 	    "age" : 20,
 	    "gender" : "male" 
 	},
 	{ 
 		"id" : 5,
-		"name": "arun",
-		"dept" : "it",
+		"name": "saranya",
+		"dept" : "ece",
 		"year" : 4,
-		"rollNo" : "11609106301",
+		"rollNo" : "11609106705",
 		"age" : 20,
-		"gender" : "male" 
+		"gender" : "female" 
+	},	 { 
+
+	 	"id"   : 6,
+	 	"name" : "karthik",
+	 	"dept" : "eee",
+	 	"year" : 4,
+	 	"rollNo" : "11609106901",
+	 	"age" : 21,
+	 	"gender" : "male" 
+	 },
+	 { 
+	 	"id" : 7,
+	 	"name": "soundari",
+	 	"dept" : "eee",
+	 	"year" : 3,
+	 	"rollNo" : "11609101902",
+	 	"age" : 20,
+	 	"gender" : "female" 
+	 },
+	 { 
+	    "id" : 8,
+	    "name": "deena",
+	    "dept" : "eee",
+	    "year" : 2,
+	    "rollNo" : "11609105903",
+	    "age" : 19,
+	    "gender" : "male" 
+	}, 
+	{ 
+		"id" : 9,
+		"name": "kumar",
+	    "dept" : "eee",
+	    "year" : 4,
+	    "rollNo" : "11609104904",
+	    "age" : 20,
+	    "gender" : "male" 
 	},
-	 { "id" : 6, "name": "bala", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 7, "name": "suresh", "dept" : "eee", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 8, "name": "ayyappa", "dept" : "civil", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 9, "name": "saranya", "dept" : "csc", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 10, "name": "kousik", "dept" : "it", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 11, "name": "muthu", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 12, "name": "madan", "dept" : "eee", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 13, "name": "gokul", "dept" : "civil", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 14, "name": "rajesh", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 15, "name": "rokesh", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 16, "name": "madhu", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 17, "name": "harish", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 18, "name": "gopal", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 19, "name": "fathima", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 20, "name": "manisha", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 21, "name": "ragul", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 22, "name": "joshua", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 23, "name": "krishna", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 24, "name": "goutham", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 25, "name": "pavi", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" },
-	 { "id" : 26, "name": "sumanth", "dept" : "ece", "year" : "4", "rollNo" : "11609106701", "age" : "20", "gender" : "male" }	
+	{ 
+		"id" : 10,
+		"name": "saranya",
+		"dept" : "eee",
+		"year" : 4,
+		"rollNo" : "11609106905",
+		"age" : 20,
+		"gender" : "female" 
+	},
+	 	 { 
+
+	 	"id"   : 11,
+	 	"name" : "karthik",
+	 	"dept" : "csc",
+	 	"year" : 4,
+	 	"rollNo" : "11609106101",
+	 	"age" : 21,
+	 	"gender" : "male" 
+	 },
+	 { 
+	 	"id" : 12,
+	 	"name": "soundari",
+	 	"dept" : "csc",
+	 	"year" : 3,
+	 	"rollNo" : "11609101102",
+	 	"age" : 20,
+	 	"gender" : "female" 
+	 },
+	 { 
+	    "id" : 13,
+	    "name": "deena",
+	    "dept" : "csc",
+	    "year" : 2,
+	    "rollNo" : "11609105103",
+	    "age" : 19,
+	    "gender" : "male" 
+	}, 
+	{ 
+		"id" : 14,
+		"name": "kumar",
+	    "dept" : "csc",
+	    "year" : 4,
+	    "rollNo" : "11609104104",
+	    "age" : 20,
+	    "gender" : "male" 
+	},
+	{ 
+		"id" : 15,
+		"name": "saranya",
+		"dept" : "csc",
+		"year" : 4,
+		"rollNo" : "11609106105",
+		"age" : 20,
+		"gender" : "female" 
+	},
+	{ 
+
+	 	"id"   : 16,
+	 	"name" : "karthik",
+	 	"dept" : "it",
+	 	"year" : 4,
+	 	"rollNo" : "11609106201",
+	 	"age" : 21,
+	 	"gender" : "male" 
+	 },
+	 { 
+	 	"id" : 17,
+	 	"name": "soundari",
+	 	"dept" : "it",
+	 	"year" : 3,
+	 	"rollNo" : "11609101202",
+	 	"age" : 20,
+	 	"gender" : "female" 
+	 },
+	 { 
+	    "id" : 18,
+	    "name": "deena",
+	    "dept" : "it",
+	    "year" : 2,
+	    "rollNo" : "11609105203",
+	    "age" : 19,
+	    "gender" : "male" 
+	}, 
+	{ 
+		"id" : 19,
+		"name": "kumar",
+	    "dept" : "it",
+	    "year" : 4,
+	    "rollNo" : "11609104204",
+	    "age" : 20,
+	    "gender" : "male" 
+	},
+	{ 
+		"id" : 20,
+		"name": "saranya",
+		"dept" : "ece",
+		"year" : 4,
+		"rollNo" : "11609106205",
+		"age" : 20,
+		"gender" : "female" 
+	},
+	 { 
+
+	 	"id"   : 21,
+	 	"name" : "karthik",
+	 	"dept" : "civil",
+	 	"year" : 4,
+	 	"rollNo" : "11609106301",
+	 	"age" : 21,
+	 	"gender" : "male" 
+	 },
+	 { 
+	 	"id" : 22,
+	 	"name": "soundari",
+	 	"dept" : "civil",
+	 	"year" : 3,
+	 	"rollNo" : "11609101302",
+	 	"age" : 20,
+	 	"gender" : "female" 
+	 },
+	 { 
+	    "id" : 23,
+	    "name": "deena",
+	    "dept" : "civil",
+	    "year" : 2,
+	    "rollNo" : "11609105303",
+	    "age" : 19,
+	    "gender" : "male" 
+	}, 
+	{ 
+		"id" : 24,
+		"name": "kumar",
+	    "dept" : "civil",
+	    "year" : 4,
+	    "rollNo" : "11609104304",
+	    "age" : 20,
+	    "gender" : "male" 
+	},
+	{ 
+		"id" : 25,
+		"name": "saranya",
+		"dept" : "civil",
+		"year" : 4,
+		"rollNo" : "11609106305",
+		"age" : 20,
+		"gender" : "female" 
+	}
+	 
  ]
 }
